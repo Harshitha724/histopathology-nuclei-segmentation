@@ -13,7 +13,7 @@ This project implements a patch-based nuclei segmentation pipeline using the MoN
 ```text
 MoNuSeg H&E Images
         ↓
-XML Annotation → Binary Masks
+XML Annotations → Binary Masks
         ↓
 Image-level Train / Validation Split
         ↓
